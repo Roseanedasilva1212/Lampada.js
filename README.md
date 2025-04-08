@@ -4,8 +4,6 @@ Este projeto é uma simples implementação de uma lâmpada interativa usando **
 
 ## 📸 Demonstração
 
-![Lâmpada Apagada](caminho-da-imagem-apagada.jpg)
-![Lâmpada Acesa](caminho-da-imagem-acesa.jpg)
 
 ## 🚀 Tecnologias Utilizadas
 
