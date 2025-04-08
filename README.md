@@ -11,6 +11,9 @@ Este projeto é uma simples implementação de uma lâmpada interativa usando **
 - **CSS**: Estilização dos elementos
 - **JavaScript**: Lógica para alternar entre os estados da lâmpada
 
-## 📂 Estrutura do Projeto
+## ✨ Melhorias Futuras
 
-/lampada-js │── index.html │── style.css │── script.js │── images/ │── lampada-acesa.jpg │── lampada-apagada.jpg
+- Adicionar animações ao clique.
+- Implementar mudança de intensidade de luz.
+- Criar uma interface mais moderna.
+
